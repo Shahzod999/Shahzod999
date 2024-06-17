@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shahzod</h1>
-<h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
+<h1 align="center">I prefer to work more</h1>
+<h3 align="center">strong junior web developer || React Next JS</h3>
 
 <p align="center">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release
+//
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/shahzod-ibragimov-b2b11b2a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzod ibragimov" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
